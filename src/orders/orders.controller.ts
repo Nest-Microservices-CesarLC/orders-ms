@@ -1,8 +1,4 @@
-import {
-  Controller,
-  NotImplementedException,
-  ParseUUIDPipe,
-} from '@nestjs/common';
+import { Controller, ParseUUIDPipe } from '@nestjs/common';
 import { MessagePattern, Payload } from '@nestjs/microservices';
 import { ChangeOrderStatusDto, CreateOrderDto, PaginationDto } from './dto';
 import { OrdersService } from './orders.service';

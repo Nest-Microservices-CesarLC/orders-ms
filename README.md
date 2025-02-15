@@ -4,10 +4,10 @@
 
 Orders MS -->
 
-## Diploy in development
+## Deploy in development
 
 1. Clone repository
-2. Create a copy of `.env.template`, rename to `.env` and change enviaronment variables
+2. Create a copy of `.env.template`, rename to `.env` and change environment variables
 3. Install dependencies
 
 ```
